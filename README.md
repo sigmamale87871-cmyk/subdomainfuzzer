@@ -1,4 +1,5 @@
 # subdomainfuzzer
-extremely light python subdomain fuzzer: requres modifying code
+extremely light python subdomain fuzzer for http, can also make https if you edit the code.
 
-You must have your wordlist and script in the same directory.
+you must run in the command line. for linux: python3 subdomainfuzzer.py (website/ip)
+                                             ex: python3 subdomainfuzzer.py 10.64.139.75
